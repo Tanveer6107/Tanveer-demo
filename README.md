@@ -1,5 +1,5 @@
 # Tanveer-demo
-This is My Firt Github Repostiory.
+This is My First Github Repostiory.
 <br>
 My Name is Tanveer.
 
